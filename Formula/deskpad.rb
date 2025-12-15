@@ -7,7 +7,7 @@ class Deskpad < Formula
   desc "Virtual monitor for screen sharing"
   homepage "https://github.com/luewell/DeskPad"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: ">= :ventura"
 
   app "DeskPad.app"
 
